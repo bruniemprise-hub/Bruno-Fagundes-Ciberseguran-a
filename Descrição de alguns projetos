@@ -1,0 +1,74 @@
+# Algumas descrição de alguns projetos:
+Projeto 1 — Scanner de Portas TCP
+
+Repositório: port-scanner-python
+
+Resumo profissional:
+
+Desenvolvimento de scanner de portas TCP em Python com execução paralela, utilizado para simular a fase de reconhecimento em auditorias de segurança.
+
+Competências demonstradas:
+
+TCP/IP
+
+Reconhecimento
+
+Multithreading
+
+Tratamento de exceções
+
+Projeto 2 — Verificador de Força de Senhas
+
+Repositório: password-strength-checker
+
+Resumo profissional:
+
+Implementação de ferramenta para avaliação da robustez de senhas baseada em critérios técnicos e entropia, alinhada às recomendações da OWASP.
+
+Competências demonstradas:
+
+Secure Coding
+
+Autenticação
+
+Entropia
+
+Políticas de segurança
+
+Projeto 3 — Monitor de Logs (SIEM Básico)
+
+Repositório: log-monitor-siem
+
+Resumo profissional:
+
+Desenvolvimento de sistema de monitoramento de logs em tempo quase real, com correlação de eventos e detecção de tentativas de força bruta.
+
+Competências demonstradas:
+
+SIEM
+
+Análise de logs
+
+Correlação temporal
+
+Blue Team
+
+Projeto 4 — NetGuard IDS (PROJETO ÂNCORA)
+
+Repositório: netguard-ids
+
+Resumo profissional (impactante):
+
+Desenvolvimento de um IDS de rede em Python para detecção de ataques de reconhecimento (port scans), com captura de pacotes em tempo real, análise de flags TCP e correlação de eventos.
+
+Competências demonstradas:
+
+IDS / NIDS
+
+Scapy
+
+Análise de tráfego de rede
+
+SOC
+
+Segurança defensiva avançada
