@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Bruno B. Fagundes
 
 Sou profissional focado em **Cibersegurança**, com ênfase em **Analista de Segurança da Informação**,**SOC** e **Blue Team**, 
 monitoramento, detecção de intrusões e desenvolvimento de ferramentas de segurança 
